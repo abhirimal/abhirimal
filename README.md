@@ -1,6 +1,6 @@
 
 - 👋 Hi there, I’m Abhiyan Dev Rimal. I am a Software Engineering student. 
-- 🌱 I’m currently learning Java, Spring Boot and DevOps. 
+- 🌱 I’m currently learning Java. 
 - 💞️ I’m looking to collaborate on opensource projects.
 - 📫 You can find me [here](https://www.linkedin.com/in/abhiyan-dev-rimal-118394184/)
 
